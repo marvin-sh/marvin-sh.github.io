@@ -18,3 +18,10 @@
     height: 100%;
     object-fit: cover;
 }
+
+@media screen and (max-width: 1024px) {
+    .image-grid {
+        --num-cols: 1;
+        --row-height: 200px;
+    }
+}
