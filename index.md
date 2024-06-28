@@ -13,14 +13,15 @@ Links: [GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic)
 * RTS-inspired building logic
 * Completely handmade assets
 * A vibrant environment and flair
-* Usually ends in absolute Chaos
+* Usually ends in absolute chaos
 
 ### Gallery
 <div class="image-grid">
-    <img src="SL_Screenshots/sheeping_logic_screenshot1.png" alt="" srcset="">
-    <img src="SL_Screenshots/sheeping_logic_screenshot2.png" alt="" srcset="">
-    <img src="SL_Screenshots/main_menu.png" alt="" srcset="">
-    <img src="SL_Screenshots/Schafexplosion.gif" alt="" srcset="">
+    <img src="SL_Screenshots/buildstuff.GIF" alt="" srcset="">
+    <img src="SL_Screenshots/small_base_sreenshot.png" alt="" srcset="">
+    <img src="SL_Screenshots/large_base_sreenshot.png" alt="" srcset="">
+    <img src="SL_Screenshots/main_menu.png.png" alt="" srcset="">
+    <img src="SL_Screenshots/sheepxplosion.GIF" alt="" srcset="">
 </div>
 ## Bloom Boom
 A card game played 1v1 via hotseat. The players use their cards to grow trees and beat the other player for light. Made within a month at the University of Augsburg.
