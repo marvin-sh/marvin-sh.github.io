@@ -1,10 +1,6 @@
 ---
 layout: default
 ---
-
-## Welcome!
-to my Gamedev Portfolio. Below I've listed the projects I've worked on.
-
 ## Sheeping Logic Inc
 An automation game similar to factorio, but here the player transports sheep over converyor belts. Made within one week at the GameDevWeek Trier 2023.
 
