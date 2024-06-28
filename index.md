@@ -2,122 +2,51 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Welcome!
+to my Gamedev Portfolio. Below I've listed the projects I've worked on.
 
-[Link to another page](./another-page.html).
+## Sheeping Logic Inc
+An automation game similar to factorio, but here the player transports sheep over converyor belts. Made within one week at the GameDevWeek Trier 2023.
 
-There should be whitespace between paragraphs.
+Trailer:
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Links: [GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic) 
+[itch.io](https://blendomatik.itch.io/sheeping-logic-inc)
 
-# Header 1
+### Features
+* RTS-inspired building logic
+* Completely handmade assets
+* A vibrant environment and flair
+* Usually ends in absolute Chaos
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Gallery
+<div class="image-grid">
+    <img src="SL_Screenshots/sheeping_logic_screenshot1.png" alt="" srcset="">
+    <img src="SL_Screenshots/sheeping_logic_screenshot2.png" alt="" srcset="">
+    <img src="SL_Screenshots/main_menu.png" alt="" srcset="">
+    <img src="SL_Screenshots/Schafexplosion.gif" alt="" srcset="">
+</div>
+## Bloom Boom
+A card game played 1v1 via hotseat. The players use their cards to grow trees and beat the other player for light. Made within a month at the University of Augsburg.
 
-## Header 2
+Trailer:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Links: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
 
 
-### Definition lists can be used with HTML syntax.
+### Features
+* Procedural tree-growing logic inspired by [L-Systems](https://en.m.wikipedia.org/wiki/L-system), including user-defined growth rules
+* Completely handmade assets including music
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Gallery
+1 | 2 
+:-------------------------:|:-------------------------:
+![](G6nfvA.png)  |  ![](Tu1Vwn.png)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## About me
+Marvin :de:
 
-```
-The final element.
-```
+[GitHub](https://github.com/marvin-sh) [YouTube]()
+
+
+

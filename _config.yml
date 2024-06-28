@@ -1,5 +1,10 @@
 title: Slate theme
-description: Slate is a theme for GitHub Pages.
+description: Marvin's blog.
+first_name: Marvin
+last_name: Krauspenhaar
+
+url: marvin-sh.github.io
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
