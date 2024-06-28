@@ -36,9 +36,12 @@ Links: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
 * Completely handmade assets including music
 
 ### Gallery
-1 | 2 
-:-------------------------:|:-------------------------:
-![](G6nfvA.png)  |  ![](Tu1Vwn.png)
+<div class="image-grid">
+    <img src="BB_Screenshots/build_medium.png" alt="" srcset="">
+    <img src="BB_Screenshots/build_large.png" alt="" srcset="">
+    <img src="BB_Screenshots/build_small.gif" alt="" srcset="">
+    <img src="BB_Screenshots/sideways.png" alt="" srcset="">
+</div>
 
 ## About me
 Marvin :de:
