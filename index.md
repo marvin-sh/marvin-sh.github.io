@@ -18,10 +18,9 @@ Links: [GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic)
 ### Gallery
 
 <div class="image-grid">
-    <img src="SL_Screenshots/buildstuff.gif" alt="" srcset="">
+    <img src="SL_Screenshots/small_base_sreenshot.png" alt="" srcset="">
     <img src="SL_Screenshots/large_base_sreenshot.png" alt="" srcset="">
     <img src="SL_Screenshots/main_menu.png" alt="" srcset="">
-    <img src="SL_Screenshots/sheepxplosion.gif" alt="" srcset="">
 </div>
 
 ## Bloom Boom
@@ -40,7 +39,6 @@ Links: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
 <div class="image-grid">
     <img src="BB_Screenshots/build_medium.png" alt="" srcset="">
     <img src="BB_Screenshots/build_large.png" alt="" srcset="">
-    <img src="BB_Screenshots/build_small.gif" alt="" srcset="">
     <img src="BB_Screenshots/sideways.png" alt="" srcset="">
 </div>
 
