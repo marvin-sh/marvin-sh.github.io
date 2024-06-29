@@ -4,7 +4,7 @@ layout: default
 ## Sheeping Logic Inc
 An automation game similar to factorio, but here the player transports sheep over converyor belts. Made within one week at the GameDevWeek Trier 2023.
 
-Trailer:
+Trailer: [Youtube](https://youtu.be/dSKOl-yFfmk)
 
 Links: [GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic) 
 [itch.io](https://blendomatik.itch.io/sheeping-logic-inc)
@@ -25,7 +25,7 @@ Links: [GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic)
 ## Bloom Boom
 A card game played 1v1 via hotseat. The players use their cards to grow trees and beat the other player for light. Made within a month at the University of Augsburg.
 
-Trailer:
+Trailer: [Youtube](https://youtu.be/Yg6f0jcUayk)
 
 Links: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
 
