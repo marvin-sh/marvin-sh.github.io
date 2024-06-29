@@ -19,7 +19,6 @@ Links: [GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic)
 
 <div class="image-grid">
     <img src="SL_Screenshots/buildstuff.gif" alt="" srcset="">
-    <img src="SL_Screenshots/small_base_sreenshot.png" alt="" srcset="">
     <img src="SL_Screenshots/large_base_sreenshot.png" alt="" srcset="">
     <img src="SL_Screenshots/main_menu.png" alt="" srcset="">
     <img src="SL_Screenshots/sheepxplosion.gif" alt="" srcset="">
