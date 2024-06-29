@@ -16,7 +16,7 @@ Links: [GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic)
 * Usually ends in absolute chaos
 
 ### Gallery
-<div style="padding:10px; display:grid; align-items: center;">
+<div style="padding:3pt; display:grid; align-items: center;">
     <img src="SL_Screenshots/small_base_sreenshot.png" alt="" srcset="" style="width: 100%; height: 100%; max-width: 500px; object-fit: cover;">
     <img src="SL_Screenshots/large_base_sreenshot.png" alt="" srcset="" style="width: 100%; height: 100%; max-width: 500px; object-fit: cover;">
     <img src="SL_Screenshots/main_menu.png" alt="" srcset="" style="width: 100%; height: 100%; max-width: 500px; object-fit: cover;">
@@ -35,7 +35,7 @@ Links: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
 * Completely handmade assets including music
 
 ### Gallery
-<div style="padding:10px; display:grid; align-items: center;">
+<div style="padding:3pt; display:grid; align-items: center;">
     <img src="BB_Screenshots/build_medium.png" alt="" srcset="" style="width: 100%; height: 100%; max-width: 500px; object-fit: cover;">
     <img src="BB_Screenshots/build_large.png" alt="" srcset="" style="width: 100%; height: 100%; max-width: 500px; object-fit: cover;">
     <img src="BB_Screenshots/sideways.png" alt="" srcset="" style="width: 100%; height: 100%; max-width: 500px; object-fit: cover;">
