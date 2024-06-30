@@ -40,3 +40,7 @@ Links: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
     <img src="BB_Screenshots/build_large.png" alt="" srcset="" style="width: 100%; height: 100%; max-width: 500px; object-fit: cover; padding:3pt;">
     <img src="BB_Screenshots/sideways.png" alt="" srcset="" style="width: 100%; height: 100%; max-width: 500px; object-fit: cover; padding:3pt;">
 </div>
+
+## About me
+Marvin from Germany. Video game programmer. I also like surfing, climbing, and music.
+
