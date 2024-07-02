@@ -45,5 +45,5 @@ Links: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
 Amongst a number of universtiy projects, the following one on Deep learning with pytorch is available on GitHub: [image-classification](https://github.com/marvin-sh/image_classification).
 
 ## About me
-Marvin from Germany. Video game programmer. I also like surfing, climbing, and music.
+Marvin from Germany. Video game programmer and mathematician. I also like surfing, climbing, and music.
 
