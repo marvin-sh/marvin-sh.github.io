@@ -41,9 +41,6 @@ Links: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
     <img src="BB_Screenshots/sideways.png" alt="" srcset="" style="width: 100%; height: 100%; max-width: 500px; object-fit: cover; padding:3pt;">
 </div>
 
-## Other projects
-Amongst a number of universtiy projects, the following one on Deep learning with pytorch is available on GitHub: [image-classification](https://github.com/marvin-sh/image_classification).
-
 ## About me
-Marvin from Germany. Video game programmer and mathematician. I also like surfing, climbing, and music.
+Marvin, video game programmer and mathematician. I also like surfing, climbing, and music.
 
