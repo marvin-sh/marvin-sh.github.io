@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Sheeping Logic Inc
+## Sheeping Logic Inc.
 An automation game centered around sheep with a colorful 3D look. Made within one week at the GameDevWeek Trier 2023.
 
 Trailer: [Youtube](https://youtu.be/dSKOl-yFfmk)
@@ -15,11 +15,11 @@ Links: [GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic)
 * Usually ends in absolute chaos. Maah!
 
 ### Gallery
-![SL_SmallBase](SL_Screenshots/small_base_sreenshot.png "SL_SmallBase")
+![missing image: Sheeping Logic Inc. small factory](SL_Screenshots/small_base_sreenshot.png "Small factory")
 
-![SL_LargeBase](SL_Screenshots/large_base_sreenshot.png "SL_LargeBase")
+![missing image: Sheeping Logic Inc. large factory](SL_Screenshots/large_base_sreenshot.png "Large factory")
 
-![SL_MainMenu](SL_Screenshots/main_menu.png "SL_MainMenu")
+![missing image: Sheeping Logic Inc. main menu](SL_Screenshots/main_menu.png "Main menu")
 
 ## Bloom Boom
 A card battler in a 1 vs 1 hot seat setting, where both players try to grow
@@ -28,7 +28,7 @@ doing so. Made within a month at the University of Augsburg.
 
 Trailer: [Youtube](https://youtu.be/Yg6f0jcUayk)
 
-Links: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
+Link: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
 
 
 ### Features
@@ -37,11 +37,11 @@ Links: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
 * Completely handmade assets.
 
 ### Gallery
-![BB_build_medium](BB_Screenshots/build_medium.png "BB_build_medium")
+![missing image: Bloom Boom small trees](BB_Screenshots/build_medium.png "Small trees")
 
-![BB_build_large](BB_Screenshots/build_large.png "BB_build_large")
+![missing image: Bloom Boom large trees](BB_Screenshots/build_large.png "Large trees")
 
-![BB_sideways](BB_Screenshots/sideways.png "BB_sideways")
+![missing image: Bloom Boom no hud](BB_Screenshots/sideways.png "Trees without hud")
 
 ## About me
 Marvin, video game programmer and mathematician. I also like surfing, climbing, and music.
