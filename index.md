@@ -40,5 +40,4 @@ doing so. Made within a month at the University of Augsburg.
 ## About me
 Hi! I'm Marvin, mathematician and video game programmer. I also like surfing, climbing, and music.
 
-[<i class="fab fa-github"></i> marvin-sh](https://github.com/marvin-sh) &nbsp; [<i class="fab fa-linkedin"></i> marvin-krauspenhaar](https://linkedin.com/in/marvin-krauspenhaar)
-
+[<i class="fab fa-github"></i> marvin-sh](https://github.com/marvin-sh) &nbsp; [<i class="fab fa-linkedin"></i> marvin-krauspenhaar](https://www.linkedin.com/in/marvin-krauspenhaar-463b72336/)

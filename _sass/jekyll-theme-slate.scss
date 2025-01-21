@@ -297,8 +297,8 @@ Full-Width Styles
 
 #header_wrap {
   background: 
-    url("../images/sheep2/sheep_banner_40.png") repeat-x, /* Background image repeated horizontally */
-    #000000; /* Background color for the area where the image does not cover */
+    url("../images/sheep2/sheep_banner_grey_40.png") repeat-x, /* Background image repeated horizontally */
+    #212121; /* Background color for the area where the image does not cover */
 }
 
 #header_wrap .inner {
@@ -309,8 +309,7 @@ Full-Width Styles
 @media (min-width: 600px){
   #header_wrap {
     background: 
-      url("../images/sheep2/sheep_banner_80.png") repeat-x, /* Background image repeated horizontally */
-      #000000; /* Background color for the area where the image does not cover */
+      url("../images/sheep2/sheep_banner_grey_80.png") repeat-x, /* Background image repeated horizontally */
   }
   
   #header_wrap .inner {
@@ -322,8 +321,7 @@ Full-Width Styles
 @media (min-width: 1000px){
   #header_wrap {
     background: 
-      url("../images/sheep2/sheep_banner_120.png") repeat-x, /* Background image repeated horizontally */
-      #000000; /* Background color for the area where the image does not cover */
+      url("../images/sheep2/sheep_banner_grey_120.png") repeat-x, /* Background image repeated horizontally */
   }
 
   #header_wrap .inner {
@@ -333,9 +331,8 @@ Full-Width Styles
 
 #header_wrap .inner h1,
 #header_wrap .inner h2 {
-  background-color: black; /* Set the background color to black */
   width: fit-content; /* Optional: Limit width to content */
-  color: white;
+  color: whitesmoke;
 }
 
 
