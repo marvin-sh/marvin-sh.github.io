@@ -4,10 +4,7 @@ layout: default
 ## Sheeping Logic Inc.
 An automation game centered around sheep with a colorful 3D look. Made within one week at the GameDevWeek Trier 2023.
 
-Trailer: [Youtube](https://youtu.be/dSKOl-yFfmk)
-
-Links: [GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic) 
-[itch.io](https://blendomatik.itch.io/sheeping-logic-inc)
+[<i class="fab fa-youtube"></i> YouTube](https://youtu.be/dSKOl-yFfmk) &nbsp; [<i class="fab fa-github"></i> GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic) &nbsp; [<i class="fab fa-itch-io"></i> Itch.io](https://blendomatik.itch.io/sheeping-logic-inc)
 
 ### Features
 * Extensive sheep-related production chains.
@@ -26,10 +23,7 @@ A card battler in a 1 vs 1 hot seat setting, where both players try to grow
 their own tree as high an possible and try to stop the other player from
 doing so. Made within a month at the University of Augsburg.
 
-Trailer: [Youtube](https://youtu.be/Yg6f0jcUayk)
-
-Link: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
-
+[<i class="fab fa-youtube"></i> YouTube](https://youtu.be/Yg6f0jcUayk) &nbsp; [<i class="fab fa-itch-io"></i> Itch.io](https://bloomboomstudios.itch.io/bloomboom)
 
 ### Features
 * Procedural tree-growing logic inspired by [L-Systems](https://en.m.wikipedia.org/wiki/L-system).
@@ -44,5 +38,7 @@ Link: [itch.io](https://bloomboomstudios.itch.io/bloomboom)
 ![missing image: Bloom Boom no hud](BB_Screenshots/sideways.png "Trees without hud")
 
 ## About me
-Marvin, video game programmer and mathematician. I also like surfing, climbing, and music.
+Hi! I'm Marvin, mathematician and video game programmer. I also like surfing, climbing, and music.
+
+[<i class="fab fa-github"></i> marvin-sh](https://github.com/marvin-sh) &nbsp; [<i class="fab fa-linkedin"></i> marvin-krauspenhaar](https://linkedin.com/in/marvin-krauspenhaar)
 
