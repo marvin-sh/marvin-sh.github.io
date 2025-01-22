@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+
+Hi! I'm Marvin, mathematician and video game programmer. Below I've listed some of the projects I have been working on.
+
+You can also find me here: &nbsp; [<i class="fab fa-github"></i> marvin-sh](https://github.com/marvin-sh) &nbsp; [<i class="fab fa-linkedin"></i> marvin-krauspenhaar](https://www.linkedin.com/in/marvin-krauspenhaar-463b72336/).
+
+
 ## Sheeping Logic Inc.
 An automation game centered around sheep with a colorful 3D look. Made within one week at the GameDevWeek Trier 2023.
 
@@ -36,8 +42,3 @@ doing so. Made within a month at the University of Augsburg.
 ![missing image: Bloom Boom large trees](BB_Screenshots/build_large.png "Large trees")
 
 ![missing image: Bloom Boom no hud](BB_Screenshots/sideways.png "Trees without hud")
-
-## About me
-Hi! I'm Marvin, mathematician and video game programmer. I also like surfing, climbing, and music.
-
-[<i class="fab fa-github"></i> marvin-sh](https://github.com/marvin-sh) &nbsp; [<i class="fab fa-linkedin"></i> marvin-krauspenhaar](https://www.linkedin.com/in/marvin-krauspenhaar-463b72336/)
