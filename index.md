@@ -10,7 +10,7 @@ You can also find me here: &nbsp; [<i class="fab fa-github"></i> marvin-sh](http
 ## Sheeping Logic Inc.
 An automation game centered around sheep with a colorful 3D look. Made within one week at the GameDevWeek Trier 2023.
 
-[<i class="fab fa-youtube"></i> YouTube](https://youtu.be/dSKOl-yFfmk) &nbsp; [<i class="fab fa-github"></i> GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic) &nbsp; [<i class="fab fa-itch-io"></i> Itch.io](https://blendomatik.itch.io/sheeping-logic-inc)
+[<i class="fab fa-itch-io"></i> Itch.io](https://blendomatik.itch.io/sheeping-logic-inc) &nbsp; [<i class="fab fa-youtube"></i> YouTube](https://youtu.be/dSKOl-yFfmk) &nbsp; [<i class="fab fa-github"></i> GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic)  
 
 ### Features
 * Extensive sheep-related production chains.
@@ -29,7 +29,7 @@ A card battler in a 1 vs 1 hot seat setting, where both players try to grow
 their own tree as high an possible and try to stop the other player from
 doing so. Made within a month at the University of Augsburg.
 
-[<i class="fab fa-youtube"></i> YouTube](https://youtu.be/Yg6f0jcUayk) &nbsp; [<i class="fab fa-itch-io"></i> Itch.io](https://bloomboomstudios.itch.io/bloomboom)
+[<i class="fab fa-itch-io"></i> Itch.io](https://bloomboomstudios.itch.io/bloomboom) &nbsp; [<i class="fab fa-youtube"></i> YouTube](https://youtu.be/Yg6f0jcUayk) 
 
 ### Features
 * Procedural tree-growing logic inspired by [L-Systems](https://en.m.wikipedia.org/wiki/L-system).
