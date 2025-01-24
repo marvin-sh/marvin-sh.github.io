@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! I'm Marvin, mathematician and video game programmer. Below I've listed some of the projects I have been working on.
+Hi! My name is Marvin, mathematician and video game programmer. Below I have listed some of the projects I worked on.
 
 You can also find me here: &nbsp; [<i class="fab fa-github"></i> marvin-sh](https://github.com/marvin-sh) &nbsp; [<i class="fab fa-linkedin"></i> marvin-krauspenhaar](https://www.linkedin.com/in/marvin-krauspenhaar-463b72336/).
 
