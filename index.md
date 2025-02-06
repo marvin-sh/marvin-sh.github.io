@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Hi! My name is Marvin, mathematician and video game programmer. Below I have listed some of the projects I worked on.
+Hi! My name is Marvin, mathematician and programmer. Below I have listed some of the projects I worked on.
 
-You can also find me here: &nbsp; [<i class="fab fa-github"></i> marvin-sh](https://github.com/marvin-sh) &nbsp; [<i class="fab fa-linkedin"></i> marvin-krauspenhaar](https://www.linkedin.com/in/marvin-krauspenhaar-463b72336/).
+You can also find me here: &nbsp; [<i class="fab fa-github"></i> marvin-sh](https://github.com/marvin-sh) &nbsp; [<i class="fab fa-linkedin"></i> marvin-krauspenhaar](https://www.linkedin.com/in/marvin-krauspenhaar-463b72336/).<br><br>
 
 
 ## Sheeping Logic Inc.
@@ -22,7 +22,7 @@ An automation game centered around sheep with a colorful 3D look. Made within on
 
 ![missing image: Sheeping Logic Inc. large factory](SL_Screenshots/large_base_sreenshot.png "Large factory")
 
-![missing image: Sheeping Logic Inc. main menu](SL_Screenshots/main_menu.png "Main menu")
+![missing image: Sheeping Logic Inc. main menu](SL_Screenshots/main_menu.png "Main menu")<br><br>
 
 ## Bloom Boom
 A card battler in a 1 vs 1 hot seat setting, where both players try to grow
@@ -41,4 +41,4 @@ doing so. Made within a month at the University of Augsburg.
 
 ![missing image: Bloom Boom large trees](BB_Screenshots/build_large.png "Large trees")
 
-![missing image: Bloom Boom no hud](BB_Screenshots/sideways.png "Trees without hud")
+![missing image: Bloom Boom no hud](BB_Screenshots/sideways.png "Trees without hud")<br><br>
