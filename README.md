@@ -2,7 +2,7 @@
 
 Jerkyll forked from the Slate theme.
 
-Local installation of jerkyll on linux:
+A memo to my brain concerning the local installation of jerkyll on linux:
 
 ```
 $ sudo apt install clang make ruby-dev libffi-dev
