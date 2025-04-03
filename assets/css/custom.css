@@ -30,8 +30,8 @@
 
 /* see https://www.youtube.com/watch?v=McPdzhLRzCg */
 .container {
-    padding: 3rem;
-
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 .slider-wrapper {
