@@ -7,6 +7,25 @@ Hi! My name is Marvin, mathematician and programmer. Below I have listed some of
 You can also find me here: &nbsp; [<i class="fab fa-github"></i> marvin-sh](https://github.com/marvin-sh) &nbsp; [<i class="fab fa-linkedin"></i> marvin-krauspenhaar](https://www.linkedin.com/in/marvin-krauspenhaar-463b72336/).<br><br>
 
 
+## Scroll Maze
+A 2D platformer game where you are trying to collect as many treasures as possible from an expanding maze, and also make your escape before time runs out. But the more treasures you collect, the further away the exit will be!
+
+Made within one week at the GameDevWeek Trier 2025.
+
+[<i class="fab fa-itch-io"></i> Itch.io](https://cedric-giese.itch.io/scroll-maze) &nbsp;
+
+### Features
+* Procedurally generated maze.
+* Fluid character movement with speedrun potential.
+* Traps and artifacts to be found, worthy of a true adventurer.
+
+### Gallery
+![missing image: Scroll Maze title](ScrollMaze_Screenshots/title.png "Title")
+
+![missing image: Scroll Maze small](ScrollMaze_Screenshots/maze_small.png "Small maze")
+
+![missing image: Scroll Maze large](ScrollMaze_Screenshots/maze_large.png "Large maze")<br><br>
+
 ## Sheeping Logic Inc.
 An automation game centered around sheep with a colorful 3D look. Made within one week at the GameDevWeek Trier 2023.
 
