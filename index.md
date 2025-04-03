@@ -20,11 +20,24 @@ Made within one week at the GameDevWeek Trier 2025.
 * Traps and artifacts to be found, worthy of a true adventurer.
 
 ### Gallery
-![missing image: Scroll Maze title](ScrollMaze_Screenshots/title.png "Title")
 
-![missing image: Scroll Maze small](ScrollMaze_Screenshots/maze_small.png "Small maze")
-
-![missing image: Scroll Maze large](ScrollMaze_Screenshots/maze_large.png "Large maze")<br><br>
+<section class="container">
+    <div class="slider-wrapper">
+        <div class="slider">
+            <img id="SM-slide1" src="ScrollMaze_Screenshots/title.png" alt="Scroll Maze title">
+            <img id="SM-slide2" src="ScrollMaze_Screenshots/maze_small.png" alt="Small maze">
+            <img id="SM-slide3" src="ScrollMaze_Screenshots/maze_large.png" alt="Large maze">
+        </div>
+        <div class="slider-nav">
+            <a href="#SM-slide1" onclick="triggerSecondLink('#gallery');">
+            </a>
+            <a href="#SM-slide2" onclick="triggerSecondLink('#gallery');">
+            </a>
+            <a href="#SM-slide3" onclick="triggerSecondLink('#gallery');">
+            </a>
+        </div>
+    </div>
+</section>
 
 ## Sheeping Logic Inc.
 An automation game centered around sheep with a colorful 3D look. Made within one week at the GameDevWeek Trier 2023.
@@ -37,11 +50,27 @@ An automation game centered around sheep with a colorful 3D look. Made within on
 * Usually ends in absolute chaos. Maah!
 
 ### Gallery
-![missing image: Sheeping Logic Inc. small factory](SL_Screenshots/small_base_sreenshot.png "Small factory")
 
-![missing image: Sheeping Logic Inc. large factory](SL_Screenshots/large_base_sreenshot.png "Large factory")
-
-![missing image: Sheeping Logic Inc. main menu](SL_Screenshots/main_menu.png "Main menu")<br><br>
+<section class="container">
+    <div class="slider-wrapper">
+        <div class="slider">
+            <iframe id="SL-slide0" src="https://www.youtube.com/embed/dSKOl-yFfmk"></iframe>
+            <img id="SL-slide1" src="SL_Screenshots/small_base_sreenshot.png" alt="Small factory">
+            <img id="SL-slide2" src="SL_Screenshots/large_base_sreenshot.png" alt="Large factory">
+            <img id="SL-slide3" src="SL_Screenshots/main_menu.png" alt="Main menu">
+        </div>
+        <div class="slider-nav">
+            <a href="#SL-slide0" onclick="triggerSecondLink('#gallery-1');">
+            </a>
+            <a href="#SL-slide1" onclick="triggerSecondLink('#gallery-1');">
+            </a>
+            <a href="#SL-slide2" onclick="triggerSecondLink('#gallery-1');">
+            </a>
+            <a href="#SL-slide3" onclick="triggerSecondLink('#gallery-1');">
+            </a>
+        </div>
+    </div>
+</section>
 
 ## Bloom Boom
 A card battler in a 1 vs 1 hot seat setting, where both players try to grow
@@ -56,8 +85,25 @@ doing so. Made within a month at the University of Augsburg.
 * Completely handmade assets.
 
 ### Gallery
-![missing image: Bloom Boom small trees](BB_Screenshots/build_medium.png "Small trees")
 
-![missing image: Bloom Boom large trees](BB_Screenshots/build_large.png "Large trees")
+<section class="container">
+    <div class="slider-wrapper">
+        <div class="slider">
+            <iframe id="BB-slide0" src="https://www.youtube.com/embed/Yg6f0jcUayk"></iframe>
+            <img id="BB-slide1" src="BB_Screenshots/build_medium.png" alt="Small trees">
+            <img id="BB-slide2" src="BB_Screenshots/build_large.png" alt="Large trees">
+            <img id="BB-slide3" src="BB_Screenshots/sideways.png" alt="Trees without hud">
+        </div>
+        <div class="slider-nav">
+            <a href="#BB-slide0" onclick="triggerSecondLink('#gallery-2');">
+            </a>
+            <a href="#BB-slide1" onclick="triggerSecondLink('#gallery-2');">
+            </a>
+            <a href="#BB-slide2" onclick="triggerSecondLink('#gallery-2');">
+            </a>
+            <a href="#BB-slide3" onclick="triggerSecondLink('#gallery-2');">
+            </a>
+        </div>
+    </div>
+</section>
 
-![missing image: Bloom Boom no hud](BB_Screenshots/sideways.png "Trees without hud")<br><br>

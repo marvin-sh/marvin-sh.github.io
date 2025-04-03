@@ -130,20 +130,6 @@ strong {
   font-weight: bold;
 }
 
-img {
-  position: relative;
-  margin: 0 auto;
-  max-width: 739px;
-  padding: 5px;
-  margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
-
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
-}
 
 p img {
   display: inline;
@@ -275,8 +261,8 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 1000px;
-  padding: 20px 25px;
+  max-width: 1300px;
+  padding: 25px 100px;
   margin: 0 auto;
 }
 
@@ -415,6 +401,11 @@ Small Device Styles
   img {
     max-width: 100%;
   }
+
+
+  .inner {
+    padding: 25px 50px;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -427,6 +418,7 @@ Small Device Styles
   }
 
   .inner {
+    padding: 25px 25px;
     min-width: 320px;
     max-width: 480px;
   }
