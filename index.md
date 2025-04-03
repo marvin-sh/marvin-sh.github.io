@@ -17,16 +17,19 @@ Made within one week at the GameDevWeek Trier 2025.
 ### Features
 * Procedurally generated maze.
 * Fluid character movement with speedrun potential.
-* Traps and artifacts to be found, worthy of a true adventurer.
+* There are numerous artifacts to be found and traps to be avoided, worthy of a true adventurer.
+
+[Davilu](https://www.youtube.com/@DaviluLP) has made a Let's Play of our game! Check it out here: [<i class="fab fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=ZPNwxTl4yts).
+
 
 ### Gallery
 
 <section class="container">
     <div class="slider-wrapper">
         <div class="slider">
-            <img id="SM-slide1" src="ScrollMaze_Screenshots/title.png" alt="Scroll Maze title">
+            <img id="SM-slide1" src="ScrollMaze_Screenshots/maze_large.png" alt="Large maze">
             <img id="SM-slide2" src="ScrollMaze_Screenshots/maze_small.png" alt="Small maze">
-            <img id="SM-slide3" src="ScrollMaze_Screenshots/maze_large.png" alt="Large maze">
+            <img id="SM-slide3" src="ScrollMaze_Screenshots/title.png" alt="Scroll Maze title">
         </div>
         <div class="slider-nav">
             <a href="#SM-slide1" onclick="triggerSecondLink('#gallery');">
