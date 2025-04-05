@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! My name is Marvin, mathematician and programmer. Below I have listed some of the projects I worked on.
+Hello and welcome! Below I have listed some of the projects I worked on.
 
 You can also find me here: &nbsp; [<i class="fab fa-github"></i> marvin-sh](https://github.com/marvin-sh) &nbsp; [<i class="fab fa-linkedin"></i> marvin-krauspenhaar](https://www.linkedin.com/in/marvin-krauspenhaar-463b72336/).<br><br>
 
@@ -12,7 +12,7 @@ A 2D platformer game where you are trying to collect as many treasures as possib
 
 Made within one week at the GameDevWeek Trier 2025.
 
-[<i class="fab fa-itch-io"></i> Itch.io](https://cedric-giese.itch.io/scroll-maze) &nbsp;
+**Download:** [<i class="fab fa-itch-io"></i> Itch.io](https://cedric-giese.itch.io/scroll-maze) &nbsp;
 
 ### Features
 * Procedurally generated maze.
@@ -45,7 +45,9 @@ Made within one week at the GameDevWeek Trier 2025.
 ## Sheeping Logic Inc.
 An automation game centered around sheep with a colorful 3D look. Made within one week at the GameDevWeek Trier 2023.
 
-[<i class="fab fa-itch-io"></i> Itch.io](https://blendomatik.itch.io/sheeping-logic-inc) &nbsp; [<i class="fab fa-youtube"></i> YouTube](https://youtu.be/dSKOl-yFfmk) &nbsp; [<i class="fab fa-github"></i> GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic)  
+**Download:** [<i class="fab fa-itch-io"></i> Itch.io](https://blendomatik.itch.io/sheeping-logic-inc)
+
+**Source code:** [<i class="fab fa-github"></i> GitHub](https://github.com/GameDevWeek-2023/OFF_SheepingLogic)  
 
 ### Features
 * Extensive sheep-related production chains.
@@ -80,7 +82,7 @@ A card battler in a 1 vs 1 hot seat setting, where both players try to grow
 their own tree as high an possible and try to stop the other player from
 doing so. Made within a month at the University of Augsburg.
 
-[<i class="fab fa-itch-io"></i> Itch.io](https://bloomboomstudios.itch.io/bloomboom) &nbsp; [<i class="fab fa-youtube"></i> YouTube](https://youtu.be/Yg6f0jcUayk) 
+**Download:** [<i class="fab fa-itch-io"></i> Itch.io](https://bloomboomstudios.itch.io/bloomboom)
 
 ### Features
 * Procedural tree-growing logic inspired by [L-Systems](https://en.m.wikipedia.org/wiki/L-system).
